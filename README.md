@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Saksham Gupta 👋
 
-<!--
-**indiancoder1212/indiancoder1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering undergraduate at **UIET, Panjab University**, interested in programming, web development, and practical applications of technology.
 
-Here are some ideas to get you started:
+I enjoy learning by building projects, experimenting with ideas, and documenting what I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 Engineering undergraduate at UIET, Panjab University
+- 🌐 Exploring frontend web development
+- 🐍 Working with Python
+- 📊 Learning data analysis and machine learning
+- 🤖 Interested in integrating AI into useful web applications
+- 🔬 Exploring machine learning in an academic research context
+
+## Technologies & Tools
+
+**Web development**
+- HTML
+- CSS
+- Bootstrap (basics)
+
+**Programming & data**
+- Python
+- NumPy
+- Pandas
+
+**Currently learning**
+- JavaScript
+- Responsive web design
+- Machine learning fundamentals
+- AI integration for web applications
+
+## Projects
+
+### Amazon-inspired Homepage
+A static, desktop-focused homepage recreation built with HTML and CSS as a frontend learning project.
+
+- [View source code](https://github.com/indiancoder1212/htmlproject001)
+- [View live website](https://indiancoder1212.github.io/htmlproject001/)
+
+*This is an independent educational recreation and is not affiliated with Amazon.*
+
+## Current Goals
+
+- Strengthen my JavaScript and frontend development fundamentals
+- Build responsive, interactive web applications
+- Develop practical machine learning projects
+- Explore ways to combine web development and AI
+- Share my learning progress and projects
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/saksham-gupta-6956-ka-18-25-ssk)
+- [GitHub](https://github.com/indiancoder1212)
+
+---
+
+*Learning, building, and improving one project at a time.*
