@@ -1,12 +1,12 @@
 # Hi, I'm Saksham Gupta 👋
 
-Engineering undergraduate at **UIET, Panjab University**, interested in programming, web development, and practical applications of technology.
+Engineering undergraduate, interested in programming, web development, and practical applications of technology.
 
 I enjoy learning by building projects, experimenting with ideas, and documenting what I learn.
 
 ## About Me
 
-- 🎓 Engineering undergraduate at UIET, Panjab University
+- 🎓 Engineering undergraduate
 - 🌐 Exploring frontend web development
 - 🐍 Working with Python
 - 📊 Learning data analysis and machine learning
@@ -19,6 +19,7 @@ I enjoy learning by building projects, experimenting with ideas, and documenting
 - HTML
 - CSS
 - Bootstrap (basics)
+- javascript
 
 **Programming & data**
 - Python
@@ -26,7 +27,6 @@ I enjoy learning by building projects, experimenting with ideas, and documenting
 - Pandas
 
 **Currently learning**
-- JavaScript
 - Responsive web design
 - Machine learning fundamentals
 - AI integration for web applications
@@ -40,14 +40,6 @@ A static, desktop-focused homepage recreation built with HTML and CSS as a front
 - [View live website](https://indiancoder1212.github.io/htmlproject001/)
 
 *This is an independent educational recreation and is not affiliated with Amazon.*
-
-## Current Goals
-
-- Strengthen my JavaScript and frontend development fundamentals
-- Build responsive, interactive web applications
-- Develop practical machine learning projects
-- Explore ways to combine web development and AI
-- Share my learning progress and projects
 
 ## Connect
 
